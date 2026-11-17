@@ -1,0 +1,10 @@
+# CCTV Hazard Detection Dataset Configuration
+path: C:/Users/storm/.gemini/antigravity/scratch/advanced_cctv_analytics/model_training/datasets/hazard_dataset
+train: images/train
+val: images/val
+
+names:
+  0: fire
+  1: smoke
+  2: fall
+  3: intrusion
